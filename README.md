@@ -15,5 +15,8 @@
 * Pseudo-class => a keyword that can be added to a selector in order to indicate the spectific state in which the element must be to be targetted by the declaration. (For example, :hover permits to apply a specific style when the user mouses hover the element targetted by the selector)
 
 
-* Content => used to generate the content dynamically (during run time), and to generate content ::berfore and ::after pseudo element.
+* Content => used to generate the content dynamically (during run time), and to generate content ::before and ::after pseudo element.
+
+
+## BB-8
 

@@ -16,7 +16,7 @@
     right: 0;
     width: 400px;
     height: 300px;
-    background: #EBEBEB;
+    background: #e8cab0;
     border-radius: 10%;
 }
 
@@ -84,7 +84,7 @@
     width: 65px;
     height: 32.5px;
     bottom: 32.5px;
-    background: #FF4D80;
+    background: red;
     border-radius: 32.5px 32.5px 0 0;
 }
 
@@ -116,7 +116,7 @@
     right: 0;
     width: 10px;
     height: 10px;
-    background: #FECB2F;
+    background: black;
     border-radius: 50%;
 }
 
@@ -260,3 +260,4 @@ transform: rotate(20deg);
     90% { transform: rotate(20.5deg); }
     100% { transform: rotate(20deg); }
   }
+
